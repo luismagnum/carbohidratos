@@ -28,11 +28,11 @@ function Hero() {
       {searchResult ? (
         <div className='text-black font-bold'>
           <div key={searchResult.id}>
-            <h2 className="text-yellow-400 text-xl font-bold mt-2">Alimento</h2>
+            <h2 className="text-green-600 text-xl font-bold mt-2">Alimento</h2>
             <h4>{searchResult.title}</h4>
-            <h2 className="text-yellow-400 text-xl font-bold mt-2">Carbohidratos</h2>
+            <h2 className="text-green-600 text-xl font-bold mt-2">Carbohidratos</h2>
             <p>{searchResult.porcion}</p>
-            <h2 className="text-yellow-400 text-xl font-bold mt-2">Gramos de HC</h2>
+            <h2 className="text-green-600 text-xl font-bold mt-2">Gramos de HC</h2>
             <p>{searchResult.gramos}</p>
           </div>
         </div>
