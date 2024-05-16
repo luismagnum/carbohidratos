@@ -17,7 +17,7 @@ function Hero() {
 
   return (
     <div className='App text-center mx-auto py-10'> 
-      <h1 className='text-xl mt-4 md:text-3xl mb-4 text-green-500 font-bold'>Conteo de carbohidratos</h1>
+      <h1 className='text-xl mt-4 md:text-3xl mb-4 text-[#00ff08] font-bold'>Conteo de carbohidratos</h1>
       <input
         type="text"
         placeholder="Buscar..."
