@@ -37,7 +37,7 @@ function Hero() {
           </div>
         </div>
       ) : searchTerm !== '' ? (
-        <p className='font-bold text-yellow-500'>No se encontró ningún producto con el término "{searchTerm}"</p>
+        <p className='font-bold text-green-600'>No se encontró ningún producto con el término "{searchTerm}"</p>
       ) : null}
     </div>
   );
