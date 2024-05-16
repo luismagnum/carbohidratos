@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"pan de molde",
+        "porcion":"1 rebanada (25gr)",
+        "gramos":"10g"
+    },
+    {
+        "id":2,
+        "title":"pan tira",
+        "porcion":"1 unidad (50gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":3,
+        "title":"pan de pancho",
+        "porcion":"1/2 unidad (25gr)",
+        "gramos":"15g"
+    },
+    {
+        "id":4,
+        "title":"pan de hamburguesa",
+        "porcion":"1/2 unidad (25gr)",
+        "gramos":"15g"
+    },
+    {
+        "id":5,
+        "title":"chipa",
+        "porcion":"1 unidad (10gr)",
+        "gramos":"10g"
+    },
+    {
+        "id":6,
+        "title":"pan rallado",
+        "porcion":"1 cuchara sopera (10gr)",
+        "gramos":"5g"
+    }
+]   
