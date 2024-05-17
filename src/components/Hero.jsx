@@ -20,10 +20,10 @@ function Hero() {
       <h1 className='text-xl mt-4 md:text-3xl mb-4 text-[#00ff08] font-bold'>Conteo de carbohidratos</h1>
       <input
         type="text"
-        placeholder="Buscar..."
+        placeholder="Buscar alimentos.."
         value={searchTerm}
         onChange={handleSearchChange}
-        className="my-3 p-2"
+        className="my-3 p-2 border border-gray-900 cursor-pointer"
       />
       {searchResult ? (
         <div className='text-black font-bold'>

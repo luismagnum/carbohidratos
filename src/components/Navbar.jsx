@@ -10,7 +10,7 @@ const Navbar = () => {
                 <span>
                     <img src={alien} alt='alien' width={35} className='bg-[#00ff08] rounded-full'/>
                 </span>
-                <h1 className='text-xl font-semibold ml-6'>Luis Daniel Diaz</h1>
+                <h1 className='text-center md:text-xl font-semibold ml-6'>Luis Daniel Diaz</h1>
             </div>
         </div>
     </div>
