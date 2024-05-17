@@ -26,13 +26,337 @@
     {
         "id":5,
         "title":"chipa",
-        "porcion":"1 unidad (10gr)",
-        "gramos":"10g"
+        "porcion":"1 unidad (15gr)",
+        "gramos":"5g"
     },
     {
         "id":6,
         "title":"pan rallado",
         "porcion":"1 cuchara sopera (10gr)",
         "gramos":"5g"
+    },
+    {
+        "id":7,
+        "title":"pan de molde",
+        "porcion":"1 rebanada grande(35gr)",
+        "gramos":"15g"
+    },
+    {
+        "id":8,
+        "title":"chipa",
+        "porcion":"1u (15gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":9,
+        "title":"galletas crackers",
+        "porcion":"3u (12gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":10,
+        "title":"factura rellena",
+        "porcion":"1u (60gr)",
+        "gramos":"0g"
+    },
+    {
+        "id":11,
+        "title":"brownie",
+        "porcion":"1 cuadrado 6x6",
+        "gramos":"30g"
+    },
+    {
+        "id":12,
+        "title":"budin",
+        "porcion":"2 rebanadas (60gr)",
+        "gramos":"30g"
+    },
+    {
+        "id":13,
+        "title":"medialuna",
+        "porcion":"1u (50gr)",
+        "gramos":"30g"
+    },
+    {
+        "id":14,
+        "title":"torta frita",
+        "porcion":"1u (40gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":15,
+        "title":"pionono",
+        "porcion":"1 rebanada (20gr)",
+        "gramos":"10g"
+    },
+    {
+        "id":16,
+        "title":"palmeritas",
+        "porcion":"1u (7gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":17,
+        "title":"arroz",
+        "porcion":"1 plato (125gr)",
+        "gramos":"30g"
+    },
+    {
+        "id":18,
+        "title":"pasta",
+        "porcion":"1 plato (160gr)",
+        "gramos":"56g"
+    },
+    {
+        "id":19,
+        "title":"ñoquis",
+        "porcion":"16u (100gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":20,
+        "title":"canelones",
+        "porcion":"1u (100gr)",
+        "gramos":"10g"
+    },
+    {
+        "id":21,
+        "title":"cappelettis",
+        "porcion":"1u (15gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":22,
+        "title":"lasagna",
+        "porcion":"1 porcion (200gr)",
+        "gramos":"90g"
+    },
+    {
+        "id":23,
+        "title":"arvejas",
+        "porcion":"1 taza tipo te (130gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":24,
+        "title":"sorrentinos",
+        "porcion":"3u (120gr)",
+        "gramos":"45g"
+    },
+    {
+        "id":25,
+        "title":"ravioles",
+        "porcion":"16u (75gr)",
+        "gramos":"25g"
+    },
+    {
+        "id":26,
+        "title":"garbanzos",
+        "porcion":"1 taza tipo te (130gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":27,
+        "title":"porotos",
+        "porcion":"1 taza tipo te (130gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":28,
+        "title":"lentejas",
+        "porcion":"1 taza tipo te (100gr)",
+        "gramos":"30g"
+    },
+    {
+        "id":29,
+        "title":"copos cereal sin azucar",
+        "porcion":"1 taza (40gr)",
+        "gramos":"30g"
+    },
+    {
+        "id":30,
+        "title":"granola",
+        "porcion":"1 taza (53gr)",
+        "gramos":"40g"
+    },
+    {
+        "id":31,
+        "title":"fajita",
+        "porcion":"1u (25gr)",
+        "gramos":"10g"
+    },
+    {
+        "id":32,
+        "title":"panquecas",
+        "porcion":"1u (25gr)",
+        "gramos":"10g"
+    },
+    {
+        "id":33,
+        "title":"tapa de empanada",
+        "porcion":"1u (30gr)",
+        "gramos":"15g"
+    },
+    {
+        "id":34,
+        "title":"pizza",
+        "porcion":"1 porcion (80gr)",
+        "gramos":"30g"
+    },
+    {
+        "id":35,
+        "title":"papa",
+        "porcion":"1u chica (110gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":36,
+        "title":"pan rallado",
+        "porcion":"1 cuchara sopera (10gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":37,
+        "title":"banana",
+        "porcion":"1u mediana (150gr)",
+        "gramos":"30g"
+    },
+    {
+        "id":38,
+        "title":"manzana",
+        "porcion":"1u mediana (180gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":39,
+        "title":"naranja",
+        "porcion":"1u (200gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":40,
+        "title":"pera",
+        "porcion":"1u mediana (150gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":41,
+        "title":"ensalada de fruta",
+        "porcion":"1 taza tipo te (150gr)",
+        "gramos":"20g"
+    },
+    {
+        "id":42,
+        "title":"mandarina",
+        "porcion":"1u mediana (150gr)",
+        "gramos":"0g"
+    },
+    {
+        "id":43,
+        "title":"durazno",
+        "porcion":"1u (150gr)",
+        "gramos":"15g"
+    },
+    {
+        "id":44,
+        "title":"frutillas",
+        "porcion":"1 taza tipo te (100gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":45,
+        "title":"jugo cepita",
+        "porcion":"1 vaso (200ml)",
+        "gramos":"25g"
+    },
+    {
+        "id":46,
+        "title":"mani",
+        "porcion":"1 taza tipo te (100gr)",
+        "gramos":"10g"
+    },
+    {
+        "id":47,
+        "title":"leche en polvo",
+        "porcion":"1 cuchara sopera (15gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":48,
+        "title":"yogurt descremado",
+        "porcion":"1 vaso (200ml)",
+        "gramos":"10g"
+    },
+    {
+        "id":49,
+        "title":"chocolatada",
+        "porcion":"1 vaso (200ml)",
+        "gramos":"25g"
+    },
+    {
+        "id":50,
+        "title":"milanesa",
+        "porcion":"1u (180gr)",
+        "gramos":"40g"
+    },
+    {
+        "id":51,
+        "title":"patitas de pollo",
+        "porcion":"1u (21gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":52,
+        "title":"pure de papas",
+        "porcion":"1 plato (165gr)",
+        "gramos":"15g"
+    },
+    {
+        "id":53,
+        "title":"salchichas",
+        "porcion":"1u (34gr)",
+        "gramos":"5g"
+    },
+    {
+        "id":54,
+        "title":"sandwich miga",
+        "porcion":"1 triangulo (20gr)",
+        "gramos":"15g"
+    },
+    {
+        "id":55,
+        "title":"dulce de leche light",
+        "porcion":"1 cuchara sopera (20gr)",
+        "gramos":"10g"
+    },
+    {
+        "id":56,
+        "title":"pochoclo",
+        "porcion":"1 taza (25gr)",
+        "gramos":"15g"
+    },
+    {
+        "id":57,
+        "title":"alfajor triple",
+        "porcion":"1u (70gr)",
+        "gramos":"40g"
+    },
+    {
+        "id":58,
+        "title":"helado crema light",
+        "porcion":"1 bocha (60gr)",
+        "gramos":"10g"
+    },
+    {
+        "id":59,
+        "title":"filet merluza rebosado",
+        "porcion":"1u (150gr)",
+        "gramos":"30g"
+    },
+    {
+        "id":60,
+        "title":"galletitas pepa",
+        "porcion":"1u (20gr)",
+        "gramos":"10g"
     }
 ]   
