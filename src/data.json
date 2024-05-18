@@ -1,15 +1,15 @@
 [
     {
         "id":1,
-        "title":"pan de molde",
+        "title":"pan",
         "porcion":"1 rebanada (25gr)",
         "gramos":"10g"
     },
     {
         "id":2,
-        "title":"pan tira",
-        "porcion":"1 unidad (50gr)",
-        "gramos":"20g"
+        "title":"arepa",
+        "porcion":"1 unidad (90gr)",
+        "gramos":"30g"
     },
     {
         "id":3,
@@ -25,9 +25,9 @@
     },
     {
         "id":5,
-        "title":"chipa",
-        "porcion":"1 unidad (15gr)",
-        "gramos":"5g"
+        "title":"papa frita",
+        "porcion":"10u",
+        "gramos":"15g"
     },
     {
         "id":6,
@@ -37,8 +37,8 @@
     },
     {
         "id":7,
-        "title":"pan de molde",
-        "porcion":"1 rebanada grande(35gr)",
+        "title":"tequeño",
+        "porcion":"1u",
         "gramos":"15g"
     },
     {
@@ -55,7 +55,7 @@
     },
     {
         "id":10,
-        "title":"factura rellena",
+        "title":"factura",
         "porcion":"1u (60gr)",
         "gramos":"0g"
     },
@@ -343,7 +343,7 @@
     },
     {
         "id":58,
-        "title":"helado crema light",
+        "title":"helado",
         "porcion":"1 bocha (60gr)",
         "gramos":"10g"
     },
@@ -355,7 +355,7 @@
     },
     {
         "id":60,
-        "title":"galletitas pepa",
+        "title":"galletas pepa",
         "porcion":"1u (20gr)",
         "gramos":"10g"
     }
