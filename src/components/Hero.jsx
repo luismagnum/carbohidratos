@@ -23,7 +23,7 @@ function Hero() {
         placeholder="Buscar alimentos.."
         value={searchTerm}
         onChange={handleSearchChange}
-        className="my-3 p-2 border border-gray-900 cursor-pointer"
+        className="my-3 p-2 bg-zinc-200 text-zinc-600 font-mono ring-1 ring-zinc-400 focus:ring-2 focus:ring-green-700 outline-none duration-300 placeholder:text-zinc-600 placeholder:opacity-50 rounded-full px-4 py-1 shadow-md focus:shadow-lg focus:shadow-green-700"
       />
       {searchResult ? (
         <div className='text-black font-bold'>
